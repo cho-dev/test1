@@ -18,6 +18,7 @@ int main(void) {
         }
         printf("\n");
     }
+    print_bar();
     return 0;
 }
 
