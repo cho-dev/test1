@@ -15,7 +15,7 @@ int main(void) {
     printf("end of message\n");
     {
         int i;
-        for (i = 0; i < 10; i++) {
+        for (i = 0; i < 5; i++) {
             printf("%d", i);
         }
         printf("\n");
