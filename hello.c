@@ -10,6 +10,7 @@ int main(void) {
     printf("add 2\n");
     print_bar();
     print_bar2();
+    printf("end of message\n");
     return 0;
 }
 
