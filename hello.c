@@ -2,6 +2,8 @@
 
 void print_bar(void);
 void print_bar2(void);
+void print_test1(void);
+void print_test2(void);
 
 int main(void) {
     printf("Hello World\n");
@@ -19,6 +21,8 @@ int main(void) {
         printf("\n");
     }
     print_bar();
+    print_test1();
+    print_test2();
     return 0;
 }
 
