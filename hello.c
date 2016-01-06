@@ -11,6 +11,13 @@ int main(void) {
     print_bar();
     print_bar2();
     printf("end of message\n");
+    {
+        int i;
+        for (i = 0; i < 10; i++) {
+            printf("%d", i);
+        }
+        printf("\n");
+    }
     return 0;
 }
 
