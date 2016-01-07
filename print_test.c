@@ -5,6 +5,6 @@ void print_test1(void) {
 }
 
 void print_test2(void) {
-    print("PRINT_TEST2\n");
+    printf("PRINT_TEST2\n");
 }
 
