@@ -8,3 +8,4 @@ windman
 cloudman
 stormman
 lovelive!
+clarin
