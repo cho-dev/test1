@@ -2,7 +2,7 @@
 rem ================================================
 rem FFmpeg-jwmod test.bat
 rem     play movie with various infomation
-rem              by Coffey 2014.06.08  mod 2014.12.26
+rem             by Coffey 2014.06.08  mod 2014.12.26
 rem ================================================
 
 setlocal
